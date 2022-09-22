@@ -1,0 +1,7 @@
+{
+  "name": "Alert Focus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
